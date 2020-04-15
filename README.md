@@ -45,6 +45,7 @@ with the Jupyter notebooks provided for the course, you will need to get familia
 following commands:
 
 >  `jupyter notebook` — which starts the jupyter interface.
+
 >  `jupyter nbextension enable --py --sys-prefix widgetsnbextension` — which enables interactive widgets and only needs to be ran once.
 
 # Course Structure
