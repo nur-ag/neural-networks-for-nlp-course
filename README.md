@@ -32,20 +32,20 @@ following libraries:
 A bash script is provided alongside with the course material to perform the installation on Linux
 or Mac OS. Running:
 
-  `./install.sh`
+>  `./install.sh`
 
 Should install all the necessary packages and contents. It might be a good idea to first create a
 virtual environment. If you want to install all necessary libraries on Windows, provided you have
 python installed and in your path, simply run the following command on the command prompt:
 
-  `python -m pip install -r requirements.txt`
+>  `python -m pip install -r requirements.txt`
 
 You will need to extract the embedding files in the `Embeddings/` folder. Additionally, to work 
 with the Jupyter notebooks provided for the course, you will need to get familiar with the 
 following commands:
 
-  `jupyter notebook` -- which starts the jupyter interface.
-  `jupyter nbextension enable --py --sys-prefix widgetsnbextension` -- which enables interactive widgets and only needs to be ran once.
+>  `jupyter notebook` — which starts the jupyter interface.
+>  `jupyter nbextension enable --py --sys-prefix widgetsnbextension` — which enables interactive widgets and only needs to be ran once.
 
 # Course Structure
 
